@@ -14,12 +14,14 @@ My expertise lies in **Python**, **C++**, **computer vision**, **sensor fusion**
 I am passionate about building scalable systems to power self-learning AI models for autonomous driving.
 
 <div align="center">
-    <details>
-        <summary><b>GitHub Metrics 👇🏻</b></summary>
+  <details> 
+    <summary><b>GitHub Stats 👇🏻</b></summary>
     <br>
-        
-<img src="https://metrics.lecoq.io/Om-Kulkarni?template=classic&isocalendar=1&followup=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Europe%2FLondon">
-    </details>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Om-Kulkarni&show_icons=true&theme=radical&rank_icon=github" alt="Om Kulkarni's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Om-Kulkarni&layout=compact&theme=radical" alt="Om Kulkarni's Top Languages" />
+    </p>
+  </details>
 </div>
 
 ## 🚀 Projects
@@ -28,33 +30,15 @@ Here are some of the projects I've worked on.
 
 | Project | Technologies Used |
 | - | - |
-| **[Distributed Multi-Camera Segmentation Pipeline](https://github.com/Om-Kulkarni/Distributed-Multi-Camera-Segmentation-Pipeline)** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)]() [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)]() [![Ray](https://img.shields.io/badge/Ray-0070E0?logo=ray&logoColor=white&style=flat-square)]() |
+| **[Autonomous Door Negotiation via IL](https://github.com/Om-Kulkarni/Autonomous_Door_Negotiation)** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)]() [![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=flat-square)]() [![Imitation Learning](https://img.shields.io/badge/Imitation_Learning-F5A623?style=flat-square)]() (Lerobot) |
+| **[Distributed Multi-Camera Segmentation Pipeline](https://github.com/Om-Kulkarni/Multi-Camera-Segmentation-Pipeline)** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)]() [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)]() [![Ray](https://img.shields.io/badge/Ray-0070E0?logo=ray&logoColor=white&style=flat-square)]() |
 | **[Realtime SegDepth Pipeline w/ CUDA Streams](https://github.com/Om-Kulkarni/Realtime-SegDepth-Pipeline)** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)]() [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)]() [![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white&style=flat-square)]() |
-| **[Tiago VR Teleoperation](https://github.com/Om-Kulkarni/Tiago-VR-Teleoperation)** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)]() [![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=flat-square)]() [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square)]() [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)]() |
-| **[Franka ROS Docker Environment](https://github.com/Om-Kulkarni/Franka-ROS-Docker-Setup)** | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)]() [![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=flat-square)]() [![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)]() |
-| **[Material Sorting w/ Foundation Models](https://github.com/Om-Kulkarni/Material-Sorting-Foundation-Models)** | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)]() [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)]() (LeRobot, VLA) |
-| **[VR Teleoperation w/ Eye-Tracking (MSc Thesis)](https://github.com/Om-Kulkarni/VR-Teleoperation-Eye-Tracking-Dissertation)** | [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square)]() [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)]() (Franka Emika Robot) |
-| **[Computed Torque Control for Manipulator](https://github.com/Om-Kulkarni/Computed-Torque-Control-Manipulator)** | [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat-square)]() (Simulink) |
-| **[Human-Robot Emotional Interaction Study](https://github.com/Om-Kulkarni/NAO-HRI-Emotional-Study)** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)]() (NAO Robot) |
+| **[Tiago VR Teleoperation](https://github.com/Om-Kulkarni/Tiago_VR_Teleoperation)** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)]() [![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=flat-square)]() [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square)]() [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)]() |
+| **[Franka ROS Docker Environment](https://github.com/Om-Kulkarni/Franka_ROS_Setup)** | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)]() [![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=flat-square)]() [![Shell](https://img.shields.io/badge/Shell-4EAA25?logo=gnu-bash&logoColor=white&style=flat-square)]() |
+| **[Material Sorting w/ Foundation Models](https://huggingface.co/datasets/OmKulkarni/sort_boxes_conveyor_v1)** | [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)]() [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)]() (LeRobot, VLA) |
+| **[VR Teleoperation w/ Eye-Tracking (MSc Thesis)](https://github.com/Om-Kulkarni/Unity_Panda_Teleop)** | [![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=flat-square)]() [![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)]() (Franka Emika Robot) |
+| **[Computed Torque Control for Manipulator]** | [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white&style=flat-square)]() (Simulink) |
+| **[Human-Robot Emotional Interaction Study]** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)]() (NAO Robot) |
 | **Robotics Perception & Navigation (Professional)** | [![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c-plus-plus&logoColor=white&style=flat-square)]() [![ROS](https://img.shields.io/badge/ROS-22314E?logo=ros&logoColor=white&style=flat-square)]() (Gazebo, MuJoCo) |
 
 
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
-
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width:="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-</div>
